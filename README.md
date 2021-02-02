@@ -1,4 +1,4 @@
-# Docker Container with postgres with Uni-Schema
+# Docker container based on postgres with uni schema
 
 Build container with
 
